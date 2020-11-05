@@ -5,4 +5,4 @@
 ## How it works?
 Inside out shader is used in unity to place a 360 form of image into a sphere. After that VR camera moved to center of sphere.
 
-Thanks for [maazirfan](https://github.com/maazirfan/InsideOut-Shader-Unity)'s insideout shader.
+Thanks to [maazirfan](https://github.com/maazirfan/InsideOut-Shader-Unity)'s insideout shader.
